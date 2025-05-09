@@ -1,0 +1,2 @@
+/home/pierrejunior/StudioProjects/BitcoinTicker/android/app/.cxx/Debug/w6t251c1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/pierrejunior/StudioProjects/BitcoinTicker/android/app/.cxx/Debug/w6t251c1/armeabi-v7a/CMakeFiles/edit_cache.dir
